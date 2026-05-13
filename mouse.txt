@@ -1,0 +1,5 @@
+  className='h-full w-full object-cover object-center lg:h-full lg:w-full transition-transform duration-500 group-hover:scale-110'
+/>
+{/* Overlay gris claro que aparece de arriba abajo */}
+<div className='absolute inset-0 bg-gray-300 translate-y-[-100%] group-hover:translate-y-0 transition-transform duration-500 ease-in-out pointer-events-none' />
+
